@@ -1,0 +1,7 @@
+<h1>{{content.title}}</h1>
+
+<div [innerHtml]="content.intro"></div>
+
+<p>Current Count: <strong>{{ currentCount }}</strong></p>
+
+<button (click)="incrementCounter()">Increment</button>

@@ -1,0 +1,16 @@
+﻿@model Lynicon.Extensibility.CacheAdminViewModel
+@using Lynicon.Utility
+
+<div class="module-section">
+    <span>
+        @Model.ItemCount() items recorded
+    </span>
+</div>
+<div class="module-section">
+    @if (!string.IsNullOrEmpty(Model.WriteToFileUrl))
+    {
+        <div class="module-button" data-url="@Model.WriteToFileUrl">
+            Write To File
+        </div>
+    }
+</div>

@@ -1,0 +1,7 @@
+﻿@model Enum
+@using Lynicon.Utility
+@{
+    var values = EnumX.EnumSelectList(ViewData.ModelMetadata.ModelType, Model);
+}
+
+@Html.DropDownList("", values, ViewData)

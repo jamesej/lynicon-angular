@@ -1,0 +1,83 @@
+{
+    "Lynicon.Repositories.ContentItem": {
+        "2d7ff200-2a6b-4320-b59e-4bbe0c8958b1:LyniconAngular.Models.CounterContent": [
+            {
+                "$type": "Lynicon.Repositories.ContentItem, LyniconANC",
+                "Id": "21a814e0-0a71-4fc8-8609-3286c383d58c",
+                "Identity": "2d7ff200-2a6b-4320-b59e-4bbe0c8958b1",
+                "DataType": "LyniconAngular.Models.CounterContent",
+                "Path": "",
+                "Summary": "{\r\n  \"ItemId\": \"2d7ff200-2a6b-4320-b59e-4bbe0c8958b1:LyniconAngular.Models.CounterContent\",\r\n  \"ItemVersionedId\": \"2d7ff200-2a6b-4320-b59e-4bbe0c8958b1:LyniconAngular.Models.CounterContent {}\"\r\n}",
+                "Content": "{\r\n  \"Intro\": \"<p>Some stuff and more</p>\",\r\n  \"InitialCount\": 0\r\n}",
+                "Title": "Counter Title",
+                "Created": "2018-07-01T10:11:13.10277Z",
+                "UserCreated": "f908d729-0fae-4fca-b6ba-7d8a0da80a7f",
+                "Updated": "2018-07-01T14:07:16.5073246Z",
+                "UserUpdated": "f908d729-0fae-4fca-b6ba-7d8a0da80a7f"
+            }
+        ],
+        "f793ad29-0cfe-4d72-8be0-96343e91c9cf:LyniconAngular.Models.ItemContent": [
+            {
+                "$type": "Lynicon.Repositories.ContentItem, LyniconANC",
+                "Id": "77525fea-702b-4bdb-8a6a-0916cbd1ad30",
+                "Identity": "f793ad29-0cfe-4d72-8be0-96343e91c9cf",
+                "DataType": "LyniconAngular.Models.ItemContent",
+                "Path": "def",
+                "Summary": "{\r\n  \"ItemId\": \"f793ad29-0cfe-4d72-8be0-96343e91c9cf:LyniconAngular.Models.ItemContent\",\r\n  \"ItemVersionedId\": \"f793ad29-0cfe-4d72-8be0-96343e91c9cf:LyniconAngular.Models.ItemContent {}\"\r\n}",
+                "Content": "{\r\n  \"Body\": \"<p>Things about def</p>\"\r\n}",
+                "Title": "Def",
+                "Created": "2018-07-03T13:08:48.2399658Z",
+                "UserCreated": "f908d729-0fae-4fca-b6ba-7d8a0da80a7f",
+                "Updated": "2018-07-03T13:08:48.2399658Z",
+                "UserUpdated": "f908d729-0fae-4fca-b6ba-7d8a0da80a7f"
+            }
+        ],
+        "b50492d9-cb1b-4f6f-8ac9-9c65d9368e82:LyniconAngular.Models.HomeContent": [
+            {
+                "$type": "Lynicon.Repositories.ContentItem, LyniconANC",
+                "Id": "3239d287-4bc4-4675-be76-7de332f7db4b",
+                "Identity": "b50492d9-cb1b-4f6f-8ac9-9c65d9368e82",
+                "DataType": "LyniconAngular.Models.HomeContent",
+                "Path": "",
+                "Summary": "{\r\n  \"ItemId\": \"b50492d9-cb1b-4f6f-8ac9-9c65d9368e82:LyniconAngular.Models.HomeContent\",\r\n  \"ItemVersionedId\": \"b50492d9-cb1b-4f6f-8ac9-9c65d9368e82:LyniconAngular.Models.HomeContent {}\"\r\n}",
+                "Content": "{}",
+                "Title": "New Title",
+                "Created": "2018-06-15T18:01:18.4182541Z",
+                "UserCreated": "f908d729-0fae-4fca-b6ba-7d8a0da80a7f",
+                "Updated": "2018-06-15T18:01:18.4182541Z",
+                "UserUpdated": "f908d729-0fae-4fca-b6ba-7d8a0da80a7f"
+            }
+        ],
+        "8b4566c5-77de-4681-b906-943bd7d357f5:LyniconAngular.Models.ItemContent": [
+            {
+                "$type": "Lynicon.Repositories.ContentItem, LyniconANC",
+                "Id": "72e06a9b-0c84-4e8d-9927-32cfb69f4349",
+                "Identity": "8b4566c5-77de-4681-b906-943bd7d357f5",
+                "DataType": "LyniconAngular.Models.ItemContent",
+                "Path": "abc",
+                "Summary": "{\r\n  \"ItemId\": \"8b4566c5-77de-4681-b906-943bd7d357f5:LyniconAngular.Models.ItemContent\",\r\n  \"ItemVersionedId\": \"8b4566c5-77de-4681-b906-943bd7d357f5:LyniconAngular.Models.ItemContent {}\"\r\n}",
+                "Content": "{\r\n  \"Body\": \"<p>stuff and <strong>more </strong>stuff</p>\"\r\n}",
+                "Title": "Abc",
+                "Created": "2018-07-03T12:46:48.2669858Z",
+                "UserCreated": "f908d729-0fae-4fca-b6ba-7d8a0da80a7f",
+                "Updated": "2018-07-03T12:46:48.2669858Z",
+                "UserUpdated": "f908d729-0fae-4fca-b6ba-7d8a0da80a7f"
+            }
+        ]
+    },
+    "Lynicon.Membership.User": {
+        "f908d729-0fae-4fca-b6ba-7d8a0da80a7f:Lynicon.Membership.User": [
+            {
+                "$type": "Lynicon.Membership.User, LyniconANC",
+                "UserName": "administrator",
+                "Title": "administrator",
+                "Id": "f908d729-0fae-4fca-b6ba-7d8a0da80a7f",
+                "Email": "admin@lynicon-user.com",
+                "Created": "2018-06-10T17:55:03.5480442Z",
+                "Modified": "2018-06-10T17:55:03.5483923Z",
+                "Password": "AQAAAAEAACcQAAAAEJpgRERrR3O5uKIgMRhYlCu5ASnLAF3F7c2fsRq7FG4Pkcj5M/c98vaYkz4DoCk5/g==",
+                "Roles": "AEU"
+            }
+        ]
+    }
+}
